@@ -1,0 +1,48 @@
+section {
+    width: 1200px;
+    margin: 40px auto;
+   
+}
+
+section ol {
+    width: 50%;
+    margin: 15px auto;
+}
+
+.form {
+    width: 50%;
+    margin: 40px auto;
+    background: rgba(125, 125, 125, 0.4);
+    padding: 40px;
+    border-radius: 7px;
+}
+
+input{
+display: block;
+ color: green;
+ padding: 8px;
+ font-size: 19px;
+ margin: 2px auto;
+ background: honeydew;
+ text-align: center;
+}
+
+p {
+    background: honeydew;
+    border: 1px solid green;
+    height: 35px;
+    width: 230px;
+    margin: 2px auto;
+    text-align: center;
+}
+
+
+button {
+    display: block;
+    background: green;
+    padding: 10px 15px;
+    color: aliceblue;
+    font-size: 19px;
+    border-radius: 7px;
+    margin: 2px auto;
+}
